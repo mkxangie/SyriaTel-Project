@@ -159,8 +159,8 @@ SyriaTel_Project/
 ## Author
 
 **Angela Mukami K**
-- GitHub: [@yourusername](https://github.com/mkxangie)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/angela-mukami-k/)
+- GitHub: (https://github.com/mkxangie)
+- LinkedIn: (https://www.linkedin.com/in/angela-mukami-k/)
 
 
 ---
