@@ -148,19 +148,9 @@ SyriaTel_Project/
 
 - Implement hyperparameter tuning to reduce overfitting
 - Collect additional features (customer satisfaction scores, competitor data)
-- Address class imbalance with SMOTE or other resampling techniques
-- Develop customer lifetime value (CLV) model for retention prioritization
-- Create real-time prediction pipeline for immediate intervention
-- Implement SHAP values for individual prediction explanations
 
 ## Business Impact
 
-**Estimated Annual Value:**
-- **Conservative (50% retention success):** $17,100 - $51,300 revenue protected
-- **Optimistic (70% retention success):** $23,950 - $71,850 revenue protected
-- **ROI:** 3-15x depending on retention program costs
-
-**Additional Benefits:**
 - Reduced customer acquisition costs (retention is 5-25x cheaper)
 - Increased customer lifetime value
 - Improved customer satisfaction
@@ -168,7 +158,7 @@ SyriaTel_Project/
 
 ## Author
 
-**[Your Name]**
+**Angela Mukami K**
 - GitHub: [@yourusername](https://github.com/mkxangie)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/angela-mukami-k/)
 
